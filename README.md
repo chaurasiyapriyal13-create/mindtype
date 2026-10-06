@@ -1,1 +1,1 @@
-No real model shipped. Train with consented data to create regressor.joblib. Synthetic metrics are isolated under synthetic_demo and do not validate predictions on real users.
+sessions.csv is created only after opt-in Save in the app. synthetic_demo.csv is simulated pipeline data, not real participant data. Do not publish real session records.
