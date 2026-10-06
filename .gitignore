@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/sessions.csv
+models/regressor.joblib
+models/metrics.json
+reports/
